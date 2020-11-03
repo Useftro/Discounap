@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Discounap</string>
+
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="ok_button">OK</string>
+
+    <string name="hint_for_number">Enter your phone number</string>
+    <string name="hint_for_name">Enter your first name</string>
+    <string name="hint_for_surname">Enter your last name</string>
+    <string name="hint_for_email">Enter your email</string>
+</resources>
